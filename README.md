@@ -1,5 +1,7 @@
 Clinic Booking System
+
 Project overview
+
 The Clinic Booking System is a database solution designed to manage medical appointments, patient records, and clinic operations efficiently. This system is suitable for small to medium-sized medical clinics and doctors' offices.
 
 Features
