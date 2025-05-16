@@ -26,4 +26,4 @@ medical_records - Stores diagnoses and treatment plans
 prescriptions - Contains medication details
 
 Entity Relationship Diagram (ERD)
-![ERD](erd-image/clinic-erd-diagram.png.png)
+![ERD](erd-image/clinic-erd-diagram.png)
