@@ -25,7 +25,7 @@ The Clinic Booking System is a database solution designed to manage medical appo
 6. medical_records - Stores diagnoses and treatment plans
 7. prescriptions - Contains medication details
 
-## Entity Relationship Diagram (ERD)
+### Entity Relationship Diagram (ERD)
 ![ERD](erd-image/clinic-erd-diagram.png)
 
 ## Setup instructions
@@ -42,7 +42,7 @@ USE clinic_booking;
 Import the SQL file
 source path/to/clinic_booking_system.sql
 
-###Option 2: Using a GUI Tool (like MySQL Workbench)
+### Option 2: Using a GUI Tool (like MySQL Workbench)
 
 Open MySQL Workbench
 Connect to your MySQL server
